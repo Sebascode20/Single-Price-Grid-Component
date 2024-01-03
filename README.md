@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sebascode20/Single-Price-Grid-Component)
-- Live Site URL: [Add live site URL here](https://pricegridcard.netlify.app/)
+- Solution URL: [https://github.com/Sebascode20/Single-Price-Grid-Component](https://github.com/Sebascode20/Single-Price-Grid-Component)
+- Live Site URL: [https://pricegridcard.netlify.app/](https://pricegridcard.netlify.app/)
 
 ## My process
 
